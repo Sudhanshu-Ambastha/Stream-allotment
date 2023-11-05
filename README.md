@@ -23,3 +23,9 @@ Enter marks for Math: 48
 Enter marks for Science: 72
 
 Recommended Stream: Humanities
+
+## How it Works
+
+The program accepts marks for English, S.St, Math, and Science as input.
+It evaluates the marks against the specified criteria to suggest a stream.
+If the marks do not meet any of the criteria, it indicates that the student doesn't qualify for any of the streams.
