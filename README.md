@@ -29,3 +29,10 @@ Recommended Stream: Humanities
 The program accepts marks for English, S.St, Math, and Science as input.
 It evaluates the marks against the specified criteria to suggest a stream.
 If the marks do not meet any of the criteria, it indicates that the student doesn't qualify for any of the streams.
+
+## Try it Online
+You can test the program online using Trinket by following this link.
+https://trinket.io/
+
+## Author
+Sudhanshu Ambastha
